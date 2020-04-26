@@ -1,0 +1,14 @@
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\bin\Debug\mStillWorkin.exe
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\bin\Debug\mStillWorkin.pdb
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.FormMain.resources
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.Properties.Resources.resources
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.csproj.GenerateResource.cache
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.exe
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.pdb
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\bin\Debug\mStillWorkin.exe
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\bin\Debug\mStillWorkin.pdb
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.FormMain.resources
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.Properties.Resources.resources
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.csproj.GenerateResource.cache
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.exe
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Debug\mStillWorkin.pdb

@@ -1,0 +1,15 @@
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\bin\Release\mStillWorkin.exe
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\bin\Release\mStillWorkin.pdb
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.FormMain.resources
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.Properties.Resources.resources
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.csproj.GenerateResource.cache
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.exe
+C:\Users\Melih SAFRAN\source\repos\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.pdb
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\bin\Release\mStillWorkin.exe
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\bin\Release\mStillWorkin.pdb
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.csprojAssemblyReference.cache
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.FormMain.resources
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.Properties.Resources.resources
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.csproj.GenerateResource.cache
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.exe
+D:\Belgelerim\YazilimGelistirme\melihsafran.visualstudio.com\mStillWorkin\mStillWorkin\obj\Release\mStillWorkin.pdb
