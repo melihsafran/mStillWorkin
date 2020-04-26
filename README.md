@@ -1,5 +1,5 @@
 # mStillWorkin
-They see me workin' They hatin' :D
+They see me workin' They hatin' :sunglasses:
 
 ## Description
 Windows form application prevents to idle windows session status.
